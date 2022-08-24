@@ -1,0 +1,25 @@
+*
+{
+    margin: 0px;
+    padding: Opx;
+}
+
+body
+{
+    background-color:cadetblue ;
+}
+
+#main_wrapper
+{
+    background-color:beige;
+    border: 3px solid black;
+    border-radius: 5px;
+    width: 65%;
+    margin: auto;
+}
+
+#main_section div p a img
+{
+  width: 80px;
+  height: 70px;  
+}
