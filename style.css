@@ -29,6 +29,7 @@ body
     margin: 5px;
     border: 2px solid black;
     border-radius: 5px;
+    color: #5CDB95;
 }
 
 #main_section div
@@ -62,3 +63,7 @@ body
     font-weight: bold;
 }
 
+#foot_a
+{
+    color: #EDF5E1;
+}
