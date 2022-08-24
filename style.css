@@ -6,14 +6,14 @@
 
 body
 {
-    background-color:cadetblue ;
+    background-color:#5CDB95;
     font: 14px;
     font-family: cambria;
 }
 
 #main_wrapper
 {
-    background-color:beige;
+    background-color:#379683;
     border: 3px solid black;
     border-radius: 5px;
     width: 65%;
@@ -23,7 +23,7 @@ body
 
 #top_header,#main_footer
 {
-    background-color: cornflowerblue;
+    background-color:#05386B;
     color: beige;
     text-align: center;
     margin: 5px;
@@ -34,7 +34,7 @@ body
 #main_section div
 {
     display: inline-block;
-    background-color:chocolate;
+    background-color:#EDF5E1;
     margin: 3px;
     padding: 13px;
     border: 1px solid black;
@@ -43,6 +43,7 @@ body
     width: 14%;
     height: 100px;
     vertical-align: top;
+    color:#5CDB95 ;
 }
 
 #main_section div h1
