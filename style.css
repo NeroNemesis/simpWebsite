@@ -63,7 +63,7 @@ body
     font-weight: bold;
 }
 
-#foot_a
+#foot_a:visited
 {
     color: #EDF5E1;
 }
