@@ -7,6 +7,8 @@
 body
 {
     background-color:cadetblue ;
+    font: 14px;
+    font-family: Cambria;
 }
 
 #main_wrapper
@@ -15,7 +17,22 @@ body
     border: 3px solid black;
     border-radius: 5px;
     width: 65%;
-    margin: auto;
+    margin: 50px auto;
+}
+
+#top_header,#main_footer
+{
+    background-color: cornflowerblue;
+    color: beige;
+    text-align: center;
+    margin: 5px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+#main_footer
+{
+    font-weight: bold;
 }
 
 #main_section div p a img
